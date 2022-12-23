@@ -127,7 +127,7 @@ Facebook Groups:
 * **AH**: Animal Hole<br>
 * **BIP**: Ball In Play<br>
 * **BOTL**: Back On The Line<br>
-* **CAS**: Conditions Affecting the Stroke<br>
+* **CATS**: Conditions Affecting the Stroke<br>  
 * **CB**: Countback<br>
 * **CTTH**: Closer To The Hole<br>
 * **DQ**: Disqualification<br>
